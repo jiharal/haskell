@@ -4,13 +4,13 @@ Haskell adalah bahasa pemrograman purely-functional atau dikenal dengan bahasa p
 # Cara install haskell
 1. Untuk Sistem Operasi Windows
     Untuk mengintall haskell-platform pada sistem operasi windows anda silahkan kunjungi link berikut:
-    `https://www.haskell.org/platform/windows.html`.
+    [Windows](https://www.haskell.org/platform/windows.html.)
 2. Untuk Sistem Opeasi Linux
      Untuk mengintall haskell-platform pada sistem operasi linuxg anda silahkan kunjungi link berikut:
-    `https://www.haskell.org/platform/mac.html#linux`
+    [Linux](https://www.haskell.org/platform/mac.html#linux)
 3. Untuk Sistem Operasi OS X
      Untuk mengintall haskell-platform pada sistem operasi OS X anda silahkan kunjungi link berikut:
-    `https://www.haskell.org/platform/mac.html`
+    [OS X](https://www.haskell.org/platform/mac.html)
 
 # Editor
 1. Atom
@@ -33,6 +33,8 @@ Jika instalasi sudah berhasil maka lakukan ujicoba pada terminal, silahkan ketik
     print(var1 + var2)
     ```
     untuk menjalankan file tersebut gunakan perintah `ghc -o step1 step1.hs && ./step1`
+
+    ![ghc](ghc.png)
 
 
 ## Demo Program

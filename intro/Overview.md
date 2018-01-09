@@ -18,6 +18,16 @@ Haskell adalah bahasa pemrograman purely-functional atau dikenal dengan bahasa p
 3. Sublime, atau
 4. Editor lainya.
 
-# Contoh
-1. Jika instalasi sudah berhasil maka lakukan ujicoba pada terminal, silahkan ketik `ghci` pada terminal anda dan pastikan muncul seperti pada gambar dibawah ini:
+# Test instalasi
+Jika instalasi sudah berhasil maka lakukan ujicoba pada terminal, silahkan ketik `ghci` pada terminal anda dan pastikan muncul seperti pada gambar dibawah ini:
+
 ![Image](ghci.png)
+
+## Demo Program
+### Hello World
+
+![Hello World](helloworld.png)
+
+### Operasi Perkalian
+
+![perkalian](perkalian.png)
